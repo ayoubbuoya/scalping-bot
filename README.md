@@ -43,7 +43,7 @@ A Python bot for crypto scalping using technical indicators. It fetches data fro
 
 2. Run the bot:
    ```bash
-   python bot.py
+   python main.py
    ```
 
 ---
